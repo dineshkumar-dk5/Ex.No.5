@@ -70,17 +70,12 @@ REG NO: 212222060053
       - Detailed paragraphs for each topic
       - Well-structured tables
       - Comprehensive analysis
-
-16. *Repository Update*:
-    - Update the GitHub repository README with properly formatted HTML tags
-     
-      (e.g., <h1>, <h2>, <p1>, etc.).
      
 
-17. *Final Review*:
+16. *Final Review*:
     - Proofread the entire document for consistency, clarity, and correctness.
 
-18. *Publish and Share*:
+17. *Publish and Share*:
     - Publish the repository and share the findings as a resource for effective AI prompting techniques.
 
 
