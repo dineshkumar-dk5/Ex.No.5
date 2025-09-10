@@ -1,8 +1,9 @@
 # EXP 5: Comparative Analysis of Naïve Prompting versus Basic Prompting Using ChatGPT Across Various Test Scenarios
 
 
-NAME: SABARI S
-REG NO: 212222240085
+NAME: Dinesh Kumar S
+
+REG NO: 212222060053
 
 
 ## 1. Aim
